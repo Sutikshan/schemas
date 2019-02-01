@@ -1,0 +1,18 @@
+{
+  "name": "open-mhealth-schemas",
+  "version": "1.2.1",
+  "author": {
+    "name": "openmhealth",
+    "website": "http://www.openmhealth.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openmhealth/schemas.git"
+  },
+  "license": "Apache",
+  "keywords": ["json schema", "mhealth", "open", "health"],
+  "main": "./schema/index.js",
+  "files": [
+    "/schema"
+  ]
+}
